@@ -1,6 +1,6 @@
 # Git Fundamentals
 
-Git is a version control system that allows us to track changes and commit them to hitory. 
+Git is a version control system that allows us to track changes and commit them to history. 
 
 Here is a growing collection of resources and helpful commands to know when working with git.
 
@@ -12,3 +12,4 @@ Here is a growing collection of resources and helpful commands to know when work
 - [git remote](./commands/Remote.md)
 - [git push](./commands/Push.md)
 - [git pull](./commands/Pull.md)
+- [git status](./commands/Status.md)
